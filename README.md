@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Kalaivanan 👋
 
-<!--
-**Kalai-200705/Kalai-200705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+Computer Science Engineering student at Rajalakshmi Institute of Technology with an interest in Software Development and Web Development.
 
-Here are some ideas to get you started:
+Currently Learning
+- Java
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+- Java
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Git
+- GitHub
+
+Projects
+- SnapSolve
+- Maze Path Exploration
+- LeetCode Solutions
+
+Current Goals
+- Complete 365 Days of LeetCode
+- Build real-world projects
+- Strengthen frontend development skills
+- Secure a software development internship
