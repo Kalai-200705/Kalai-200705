@@ -1,9 +1,9 @@
-Hi, I'm Kalaivanan 👋
+## Hi, I'm Kalaivanan 👋
 
-About Me
+## About Me
 Computer Science Engineering student at Rajalakshmi Institute of Technology with an interest in Software Development and Web Development.
 
-Currently Learning
+## Currently Learning
 - Java
 - HTML5
 - CSS3
@@ -11,7 +11,7 @@ Currently Learning
 - React
 - Data Structures & Algorithms
 
-Tech Stack
+## Tech Stack
 - Java
 - HTML5
 - CSS3
@@ -20,13 +20,15 @@ Tech Stack
 - Git
 - GitHub
 
-Projects
+## Projects
 - SnapSolve
 - Maze Path Exploration
 - LeetCode Solutions
 
-Current Goals
-- Complete 365 Days of LeetCode
-- Build real-world projects
-- Strengthen frontend development skills
-- Secure a software development internship
+## Current Goals
+
+- Learn consistently and improve every day.
+- Master Data Structures & Algorithms.
+- Build meaningful projects and gain hands-on experience.
+- Learn new technologies and strengthen development skills.
+- Grow into a highly skilled Software Developer.
