@@ -32,3 +32,4 @@ Computer Science Engineering student at Rajalakshmi Institute of Technology with
 - Build meaningful projects and gain hands-on experience.
 - Learn new technologies and strengthen development skills.
 - Grow into a highly skilled Software Developer.
+- Aspiring to become an devops engineer.
